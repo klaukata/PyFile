@@ -1,0 +1,7 @@
+Creating a practical solution to simplify my daily tasks and highlight my Python skills, "PyFileOrganizer" automates
+file management for a more organized digital life. This project is a testament to my proficiency in Python and a
+commitment to efficiency in everyday workflows.
+
+# INTUITION = what to do
+# APPROACH
+# CODE
